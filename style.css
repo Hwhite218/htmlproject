@@ -1,0 +1,43 @@
+*{
+	font-family:'Times', serif;
+}
+h1 {color: white;
+text-decoration: none;
+text-align: center;
+font-size: 36px;
+vertical-align: middle;
+position: relative;
+top: 50%;
+text-shadow: 50%;
+}
+
+h2 {
+	font-size: 9px;
+	margin-bottom: 1px; 
+	margin-top: 0px;
+    font-style: italic;
+     }
+h3 {
+	font-size: 12px;
+	margin-top: 0px;
+}
+
+h4 {font-size: 16px;
+	margin-bottom: -15px; 
+}
+.cover {
+	height:500px;
+	width: 100%;
+	background-image: url("3971181795_5642486d11_z.jpg");
+	background-position:center center;
+}
+.biography {
+	margin-top: 25px;
+}
+
+
+
+
+
+
+
